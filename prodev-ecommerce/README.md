@@ -63,3 +63,6 @@ Responsive UI
 - cd alx-project-nexus/prodev-ecommerce
 - npm install
 - npm run dev
+
+## Deployed link
+alx-project-nexus-smoky.vercel.app
