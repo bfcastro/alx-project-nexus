@@ -1,6 +1,6 @@
-# Modern React E-Commerce Catalog (CRA + TypeScript)
+# Modern React E-Commerce Catalog
 
-A fully responsive, high-performance product catalog application built with React, CRA, TypeScript, Redux Toolkit, and TailwindCSS.
+A fully responsive, high-performance product catalog application built with React, TypeScript, Redux Toolkit, and TailwindCSS.
 This project demonstrates clean architecture, reusable components, filtering logic, pagination, infinite scrolling, and a delightful user experience.
 
 ## Project Overview
@@ -42,7 +42,6 @@ Responsive UI
 - Optimized alignment & spacing for clarity and user focus
 
 ## Technologies Used
-- CRA (Create React App)
 - React (TypeScript) – component-driven architecture
 - Redux Toolkit – clean global state management
 - TailwindCSS – utility-first responsive styling
